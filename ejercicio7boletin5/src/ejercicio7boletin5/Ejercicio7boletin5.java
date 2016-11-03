@@ -2,10 +2,6 @@ package ejercicio7boletin5;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Brais
- */
 public class Ejercicio7boletin5 {
 
     public static void main(String[] args) {

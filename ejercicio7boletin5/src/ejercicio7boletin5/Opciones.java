@@ -2,12 +2,6 @@ package ejercicio7boletin5;
 
 import javax.swing.JOptionPane;
 
-
-
-/**
- *
- * @author Brais
- */
 public class Opciones {
     private float lado,base,altura,radio,triangulo,cuadrado,circulo;
     private int select;

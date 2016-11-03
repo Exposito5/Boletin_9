@@ -24,7 +24,7 @@ public class Ejercicio7boletin5 {
             
             default:
                 
-                System.out.println("Opción escogida no válida, seleccione una opción de las 3 posibles, gracias.");
+                JOptionPane.showInputDialog(null,"Opción escogida no válida, seleccione una opción de las 3 posibles, gracias.");
                     
         }
         

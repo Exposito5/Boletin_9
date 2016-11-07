@@ -6,7 +6,7 @@ public class Boletin_5_7 {
 
     public static void main(String[] args) {
         int select;
-//p
+//poliglota
         Cuadrado o = new Cuadrado();
         Circulo c = new Circulo();
         Triangulo t = new Triangulo();
